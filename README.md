@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a passionate and dedicated aspiring full stack developer with a strong interest in cybersecurity. I have hands-on experience with Python, HTML, CSS, Tailwind CSS, JavaScript, React, Next.js, Node.js, Express.js, Context API, Redux, Toolkit, REST API, GraphQL, Prisma, JWT (JSON Web Token), OAuth (Google login etc.), Firebase, Jest, React Testing Library and MongoDB. I enjoy building modern, responsive, and scalable web applications while continuously improving my problem-solving and security skills. My goal is to become a skilled full stack developer and cybersecurity expert, contributing to secure and efficient
+I am a passionate and dedicated aspiring full stack developer with a strong interest in cybersecurity. I have hands-on experience with C, C++, Python, JavaScript, Next.js, Node.js, Express.js, Redux, MongoDB. I enjoy building modern, responsive, and scalable web applications while continuously improving my problem-solving and security skills. My goal is to become a skilled full stack developer and cybersecurity expert, contributing to secure and efficient
 
 
 ## 🌐 Socials:
